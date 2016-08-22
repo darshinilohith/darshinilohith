@@ -1,0 +1,58 @@
+.header-section{
+    background-color: deepskyblue;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+        
+}
+
+.name{
+    color:white;
+    } 
+
+.designation{
+    color:#181818;
+}
+
+.footer-section{
+    background-color: lightskyblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.link{
+    padding-left: 50px;
+    padding-right: 50px;
+    transition: all .5sec ease-in-out;
+}
+
+.link:hover{
+    transform: scale(1.8);
+    
+}
+
+.experienced-section{
+    background-color: white;
+    padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 20px;
+}
+
+.skills-section{
+    
+     padding-left: 20px;
+     padding-right: 50px;
+     padding-bottom: 50px;
+     transition-duration:2s;
+     transition-timing-function: ease;
+    
+     
+}
+
+.projects-section{
+     background-color:deepskyblue; 
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 20px;    
+}
